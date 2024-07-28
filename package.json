@@ -1,0 +1,13 @@
+{
+  "name": "javaas3-janebebik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "jane",
+  "license": "ISC",
+  "description": "i really have no clue what i am doing"
+}
+  
